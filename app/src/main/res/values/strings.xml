@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeepAwake</string>
+    <string name="app_name_upper" translatable="false">KEEPAWAKE</string>
+    <string name="app_kicker" translatable="false">SYSTEM / УДЕРЖАНИЕ ЭКРАНА</string>
+    <string name="hero_state_idle" translatable="false">STANDBY</string>
+    <string name="hero_state_active" translatable="false">REC</string>
+
+    <string name="tile_label_active">Экран не гаснет</string>
+    <string name="tile_label_inactive">Удержание экрана</string>
+    <string name="tile_label_error">Нужно разрешение</string>
+    <string name="tile_subtitle_off">Выключено</string>
+    <string name="tile_subtitle_indefinite">Бесконечно</string>
+    <string name="tile_subtitle_remaining">Осталось %1$s</string>
+    <string name="tile_subtitle_permission">Включите разрешение в настройках</string>
+
+    <string name="status_idle">Режим выключен</string>
+    <string name="status_active">Экран не гаснет</string>
+    <string name="toggle_on">Включить</string>
+    <string name="toggle_off">Выключить</string>
+
+    <string name="preset_indefinite">Бесконечно</string>
+    <string name="preset_15">15 мин</string>
+    <string name="preset_30">30 мин</string>
+    <string name="preset_60">1 час</string>
+
+    <string name="permission_write_settings">Изменение настроек экрана</string>
+    <string name="permission_notifications">Уведомления в шторке</string>
+
+    <string name="notification_channel_name">Удержание экрана</string>
+    <string name="notification_title">Экран не гаснет</string>
+    <string name="notification_stop">Выключить</string>
+    <string name="notification_text_indefinite">Таймер не установлен</string>
+    <string name="notification_text_timed">Автоотключение по таймеру</string>
+
+    <string name="help">Подсказка</string>
+    <string name="hero_content">Состояние удержания экрана</string>
+    <string name="timer_idle">00:00</string>
+    <string name="timer_indefinite">∞</string>
+    <string name="timer_remaining_label">ОСТАЛОСЬ</string>
+    <string name="hero_subtitle">Один тап — и экран не погаснет поверх любого приложения</string>
+    <string name="hero_subtitle_active">Экран останется включённым, пока вы не выключите режим</string>
+    <string name="preset_section">АВТООТКЛЮЧЕНИЕ</string>
+    <string name="permission_section">РАЗРЕШЕНИЯ</string>
+    <string name="ready">Готово</string>
+    <string name="allow">Разрешить</string>
+
+    <string name="onboarding_welcome">Добро пожаловать в KeepAwake</string>
+    <string name="onboarding_intro">Приложение удерживает экран включённым поверх любых приложений — в один тап из шторки или с главного экрана.</string>
+    <string name="onboarding_step_permissions">ШАГ 1 · РАЗРЕШЕНИЯ</string>
+    <string name="onboarding_write_title">Настройки экрана</string>
+    <string name="onboarding_notify_title">Уведомления в шторке</string>
+    <string name="onboarding_step_tile">ШАГ 2 · ШТОРКА БЫСТРЫХ НАСТРОЕК</string>
+    <string name="onboarding_tile_hint">Добавьте плитку «Удержание экрана» в верхнюю шторку Android: опустите шторку → нажмите карандаш → перетащите плитку наверх. Так режим включится из любого приложения.</string>
+    <string name="onboarding_continue">Продолжить</string>
+</resources>

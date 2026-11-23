@@ -1,0 +1,29 @@
+# Secrets — never commit release keys
+*.jks
+*.keystore
+keystore.properties
+
+# Gradle / Android
+.gradle/
+build/
+**/build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated artifacts
+/dist/
+/screenshots/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Logs
+*.log

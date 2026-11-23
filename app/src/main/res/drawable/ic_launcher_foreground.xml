@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Geometric display symbol inside the 44dp safe zone -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M38,40 H70 A4,4 0 0 1 74,44 V62 A4,4 0 0 1 70,66 H38 A4,4 0 0 1 34,62 V44 A4,4 0 0 1 38,40 Z"
+        android:strokeColor="#FFF5F5F5"
+        android:strokeLineJoin="round"
+        android:strokeWidth="4" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M48,70 L60,70 M43,76 L65,76"
+        android:strokeColor="#FFF5F5F5"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+    <!-- Brand red activity dot -->
+    <path
+        android:fillColor="#FFD71921"
+        android:pathData="M54,48.5 A4.5,4.5 0 1,1 53.99,48.5 Z" />
+</vector>
